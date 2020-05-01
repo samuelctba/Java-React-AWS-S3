@@ -1,0 +1,13 @@
+package to.us.samuelcamargo.Witnesses;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class WitnessesApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}

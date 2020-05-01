@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47646184-5810-4033-ba05-dd5023bc19a1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/to/us/samuelcamargo/Witnesses/WitnessesApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/to/us/samuelcamargo/Witnesses/bucket/BucketName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/to/us/samuelcamargo/Witnesses/config/AmazonConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/to/us/samuelcamargo/Witnesses/dataStore/FakeUserProfileDataStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/to/us/samuelcamargo/Witnesses/fileStore/FileStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/to/us/samuelcamargo/Witnesses/proifle/UserProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/to/us/samuelcamargo/Witnesses/proifle/UserProfileController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/to/us/samuelcamargo/Witnesses/proifle/UserProfileDataAccessService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/to/us/samuelcamargo/Witnesses/proifle/UserProfileService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/to/us/samuelcamargo/Witnesses/WitnessesApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/frontend/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/frontend/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/frontend/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/src/frontend/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b05OVu5qlqFmpm8OZSUtOzlK0w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.14941406" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="to.us.samuelcamargo.Witnesses" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="WitnessesApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="to.us.samuelcamargo.Witnesses.WitnessesApplication" />
+      <module name="Witnesses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="to.us.samuelcamargo.Witnesses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WitnessesApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47646184-5810-4033-ba05-dd5023bc19a1" name="Default Changelist" comment="" />
+      <created>1587756138426</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587756138426</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="354" y="135" key="#Inspections" timestamp="1587758098452">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="354" y="135" key="#Inspections/0.0.1440.900@0.0.1440.900" timestamp="1587758098452" />
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser" timestamp="1588180512962">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1588180512962" />
+    <state x="248" y="381" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1587762923428">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="248" y="381" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1440.900@0.0.1440.900" timestamp="1587762923428" />
+    <state x="495" y="338" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1587762925879">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="495" y="338" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1440.900@0.0.1440.900" timestamp="1587762925879" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1588372494411">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588372494411" />
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1588370333755" />
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1588182249371" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1588372494409">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588372494409" />
+    <state width="1398" height="304" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1588370333752" />
+    <state width="1398" height="304" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1588182249364" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1588372494408">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588372494408" />
+    <state width="1398" height="304" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1588370333750" />
+    <state width="1398" height="304" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1588182249362" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1588372494410">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588372494410" />
+    <state width="1398" height="304" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1588370333753" />
+    <state width="1398" height="304" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1588182249370" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1588370333761">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588182205661" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.23.1440.804@0.23.1440.804" timestamp="1588370333761" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.23.1440.806@0.23.1440.806" timestamp="1588182249375" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1588370333757">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1588182205658" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center/0.23.1440.804@0.23.1440.804" timestamp="1588370333757" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center/0.23.1440.806@0.23.1440.806" timestamp="1588182249373" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1588370333756">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1588182205657" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left/0.23.1440.804@0.23.1440.804" timestamp="1588370333756" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left/0.23.1440.806@0.23.1440.806" timestamp="1588182249372" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1588370333759">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1588182205659" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right/0.23.1440.804@0.23.1440.804" timestamp="1588370333759" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right/0.23.1440.806@0.23.1440.806" timestamp="1588182249374" />
+    <state x="258" y="112" key="Maven.ArtifactSearchDialog" timestamp="1587763915682">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="258" y="112" key="Maven.ArtifactSearchDialog/0.0.1440.900@0.0.1440.900" timestamp="1587763915682" />
+    <state x="229" y="63" key="SettingsEditor" timestamp="1587763569465">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="63" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1587763569465" />
+    <state x="453" y="381" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1587761035735">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="453" y="381" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1440.900@0.0.1440.900" timestamp="1587761035735" />
+    <state x="327" y="67" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588180994129">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="327" y="67" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.900@0.0.1440.900" timestamp="1588180994129" />
+    <state x="458" y="195" key="extract.method.dialog" timestamp="1588181392441">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="195" key="extract.method.dialog/0.0.1440.900@0.0.1440.900" timestamp="1588181392441" />
+    <state x="503" y="223" key="refactoring.ChangeSignatureDialog" timestamp="1588180529201">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="503" y="223" key="refactoring.ChangeSignatureDialog/0.0.1440.900@0.0.1440.900" timestamp="1588180529201" />
+    <state x="385" y="210" key="run.anything.popup" timestamp="1587925803780">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="210" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1587925803780" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1588181248218">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1588181248218" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="ContentType.IMAGE_JPEG.getMimeType()" />
+        <watch expression="file.getContentType()" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
